@@ -1,0 +1,15 @@
+{
+    "DW5.DualTracksMod": {
+        "version": "0.11",
+        "changelog": [
+            {
+                "version": "0.11",
+                "desc": "- Added an Update button"
+            },
+            {
+                "version": "0.1",
+                "desc": "- 404 Description not found"
+            }
+        ]
+    }
+}

@@ -3,6 +3,10 @@
         "version": "20240707.01",
         "changelog": [
             {
+                "version": "20240707.02",
+                "desc": "- Fixed a few issues with not stopping at stations"
+            },
+            {
                 "version": "20240707.01",
                 "desc": "- Initial Release"
             },

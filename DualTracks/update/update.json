@@ -1,14 +1,17 @@
 {
     "DW5.DualTracksMod": {
-        "version": "0.11",
+        "version": "20240707.01",
         "changelog": [
             {
+                "version": "20240707.01",
+                "desc": "- Initial Release"
+            },
                 "version": "0.11",
                 "desc": "- Added an Update button"
             },
             {
                 "version": "0.1",
-                "desc": "- 404 Description not found"
+                "desc": "- 404 Tracks not found"
             }
         ]
     }

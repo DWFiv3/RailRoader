@@ -1,0 +1,425 @@
+{
+  "splineys": {
+    "Sylv Dils Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":22644.14,"y":605.06,"z":-1172.15},
+          "rotation": {"x":0,"y":41.41,"z":0}
+        },
+        {
+          "position": {"x":22657.78,"y":605.19,"z":-1156.84},
+          "rotation": {"x":0.0,"y":41.41,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Sylv Dils Bridge 1.2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":22644.14,"y":605.06,"z":-1172.15},
+          "rotation": {"x":0,"y":41.41,"z":0}
+        },
+        {
+          "position": {"x":22657.78,"y":605.19,"z":-1156.84},
+          "rotation": {"x":0.0,"y":41.41,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cowee Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":20653.03,"y":601.60,"z":-785.98},
+          "rotation": {"x":0,"y":143.60,"z":0}
+        },
+        {
+          "position": {"x":20587.99,"y":601.55,"z":-725.77},
+          "rotation": {"x":0,"y":115.30,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Ela Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":8641.33,"y":544.60,"z":7619.81},
+          "rotation": {"x":359.93,"y":68.50,"z":0}
+        },
+        {
+          "position": {"x":8747.53,"y":544.75,"z":7649.53},
+          "rotation": {"x":359.93,"y":78.50,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Bryson Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":4228.74,"y":528.65,"z":5021.50},
+          "rotation": {"x":0,"y":209.85,"z":0}
+        },
+        {
+          "position": {"x":4169.82,"y":528.65,"z":4952.02},
+          "rotation": {"x":0,"y":228.53,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Brooks Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-2223.53,"y":555.69,"z":983.21},
+          "rotation": {"x":0,"y":165.99,"z":0}
+        },
+        {
+          "position": {"x":-2181.89,"y":555.69,"z":894.07},
+          "rotation": {"x":0,"y":139.99,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Almond Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-6150.81,"y":530.05,"z":718.83},
+          "rotation": {"x":359.83,"y":204.62,"z":0}
+        },
+        {
+          "position": {"x":-6253.63,"y":530.11,"z":494.47},
+          "rotation": {"x":0.0,"y":204.62,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-27509.32,"y":556.87,"z":-20329.94},
+          "rotation": {"x":0.62,"y":260.95,"z":0}
+        },
+        {
+          "position": {"x":-27534.0,"y":556.55,"z":-20331.51},
+          "rotation": {"x":0.62,"y":270.95,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-27047.05,"y":567.04,"z":-19826.61},
+          "rotation": {"x":0.62,"y":200.27,"z":0}
+        },
+        {
+          "position": {"x":-27057.08,"y":566.68,"z":-19853.80},
+          "rotation": {"x":1.12,"y":200.27,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews Bridge 3": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-26552.83,"y":573.90,"z":-19556.20},
+          "rotation": {"x":0.62,"y":240.47,"z":0}
+        },
+        {
+          "position": {"x":-26580.82,"y":573.35,"z":-19568.47},
+          "rotation": {"x":0.62,"y":249.97,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews Bridge 4": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-24856.18,"y":601.20,"z":-18587.86},
+          "rotation": {"x":1.52,"y":240.45,"z":0}
+        },
+        {
+          "position": {"x":-24902.27,"y":599.85,"z":-18614.00},
+          "rotation": {"x":1.02,"y":240.45,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews Bridge 5": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-24744.54,"y":604.80,"z":-18524.56},
+          "rotation": {"x":1.52,"y":240.52,"z":0}
+        },
+        {
+          "position": {"x":-24821.93,"y":602.27,"z":-18568.44},
+          "rotation": {"x":1.52,"y":240.45,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Andrews Bridge 6": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-24427.01,"y":614.28,"z":-18360.97},
+          "rotation": {"x":1.11,"y":266.38,"z":0}
+        },
+        {
+          "position": {"x":-24477.46,"y":613.55,"z":-18363.94},
+          "rotation": {"x":1.11,"y":272.88,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Rhodo Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-24045.52,"y":623.20,"z":-18406.67},
+          "rotation": {"x":1.11,"y":273.38,"z":0}
+        },
+        {
+          "position": {"x":-24119.13,"y":621.06,"z":-18398.76},
+          "rotation": {"x":1.11,"y":281.83,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Rhodo Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-22689.93,"y":659.00,"z":-17625},
+          "rotation": {"x":0.66,"y":219.60,"z":0}
+        },
+        {
+          "position": {"x":-22704.27,"y":658.75,"z":-17642.33},
+          "rotation": {"x":0.66,"y":219.60,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Alarka Exit Bridge1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":208.28,"y":574.85,"z":628.71},
+          "rotation": {"x":359.46,"y":99.98,"z":0}
+        },
+        {
+          "position": {"x":-135.07,"y":572.58,"z":672.61},
+          "rotation": {"x":358.46,"y":84.98,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Brooks Bridge2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-2092.53,"y":555.65,"z":840.79},
+          "rotation": {"x":0,"y":103.99,"z":0}
+        },
+        {
+          "position": {"x":-2071.70,"y":555.65,"z":837.10},
+          "rotation": {"x":0,"y":95.98,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Nantahala Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-16772.57,"y":641.00,"z":-11504.48},
+          "rotation": {"x":2.21,"y":48.60,"z":0}
+        },
+        {
+          "position": {"x":-16694.98,"y":637.00,"z":-11436.10},
+          "rotation": {"x":2.21,"y":48.60,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Topton Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":-18287.44,"y":768.88,"z":-14109.93},
+          "rotation": {"x":357.40,"y":232.17,"z":0}
+        },
+        {
+          "position": {"x":-18337.22,"y":772.55,"z":-14172.58},
+          "rotation": {"x":357.40,"y":200.75,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Hemingway Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":2844.02,"y":578.15,"z":3179.50},
+          "rotation": {"x":0.0,"y":199.53,"z":0}
+        },
+        {
+          "position": {"x":2944.07,"y":575.28,"z":3441.08},
+          "rotation": {"x":359.00,"y":206.53,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 00": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":1831.68,"y":591.52,"z":-44.85},
+          "rotation": {"x":359.46,"y":128.82,"z":0}
+        },
+        {
+          "position": {"x":1872.19,"y":591.80,"z":-77.43},
+          "rotation": {"x":359.46,"y":128.82,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 10": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":1639.92,"y":590.92,"z":357.35},
+          "rotation": {"x":359.46,"y":170.25,"z":0}
+        },
+        {
+          "position": {"x":1756.82,"y":590.98,"z":185.30},
+          "rotation": {"x":0.0,"y":137.21,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":2311.33,"y":598.65,"z":-576.36},
+          "rotation": {"x":0.66,"y":332.97,"z":0}
+        },
+        {
+          "position": {"x":2343.14,"y":599.20,"z":-638.71},
+          "rotation": {"x":0.66,"y":332.97,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 4": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":1891.05,"y":592.18,"z":-119.27},
+          "rotation": {"x":359.46,"y":114.99,"z":0}
+        },
+        {
+          "position": {"x":1836.67,"y":591.62,"z":-93.93},
+          "rotation": {"x":359.46,"y":114.99,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 5": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":2169.47,"y":610.97,"z":-1398.10},
+          "rotation": {"x":0.66,"y":3.97,"z":0}
+        },
+        {
+          "position": {"x":2172.39,"y":610.54,"z":-1361.71},
+          "rotation": {"x":0.66,"y":4.47,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Bryson Bridge 2": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":2162.54,"y":547.44,"z":4742.84},
+          "rotation": {"x":359.57,"y":266.53,"z":0}
+        },
+        {
+          "position": {"x":2097.95,"y":548.16,"z":4724.68},
+          "rotation": {"x":359.45,"y":240.97,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Alarka Bridge 1": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":3816.88,"y":641.92,"z":-2806.34},
+          "rotation": {"x":0.20,"y":306.47,"z":0}
+        },
+        {
+          "position": {"x":3540.26,"y":638.30,"z":-2687.89},
+          "rotation": {"x":0.70,"y":282.77,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    },
+    "Cochran Bridge 3": {
+      "meshBuilder": "StrangeCustoms.AutoTrestle",
+      "points": [
+        {
+          "position": {"x":2315.37,"y":607.00,"z":-1084.56},
+          "rotation": {"x":0.66,"y":27.97,"z":0}
+        },
+        {
+          "position": {"x":2283.13,"y":607.65,"z":-1134.17},
+          "rotation": {"x":0.66,"y":47.97,"z":0}
+        }
+      ],
+      "headStyle": "block",
+      "tailStyle": "bent"
+    }
+
+  }
+}

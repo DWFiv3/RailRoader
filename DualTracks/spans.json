@@ -1,0 +1,30 @@
+{
+    "spans": {
+        "P9c5": {
+            "upper": {
+                "segmentId": "DW5_duptraxS_6wac",
+                "distance": 0,
+                "end": "Start",
+                "comment": "Nantahala Station Fix"
+            },
+            "lower": {
+                "segmentId": "DW5_duptraxS_6wac",
+                "distance": 2,
+                "end": "End"
+            }
+        },
+        "P4jr": {
+            "upper": {
+                "segmentId": "DW5_duptraxS_Stf3SA",
+                "distance": 0,
+                "end": "Start",
+                "comment": "Totpton Station Fix"
+            },
+            "lower": {
+                "segmentId": "DW5_duptraxS_Stf3SA",
+                "distance": 2,
+                "end": "End"
+            }
+        }
+    }
+}

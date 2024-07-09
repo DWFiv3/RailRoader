@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "20240708.01",
+        "version": "20240709.01",
         "changelog": [
+            {
+                "version": "20240709.01",
+                "desc": "- Fixed an issue with Chomers Bryson Interchange track not connecting"
+            },            
             {
                 "version": "20240708.01",
                 "desc": "- Fixed an issue coming into Byrson from Ela getting stuck at a red for no reason - CTC bypassed"

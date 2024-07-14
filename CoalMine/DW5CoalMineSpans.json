@@ -1,0 +1,100 @@
+{
+    "spans": {
+        "DW5RCMI3": {
+            "upper": {
+                "segmentId": "DW5Seg_6sqz",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_6sqz",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI4": {
+            "upper": {
+                "segmentId": "DW5Seg_awvl",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_awvl",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI5": {
+            "upper": {
+                "segmentId": "DW5Seg_5n9m",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_5n9m",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI6": {
+            "upper": {
+                "segmentId": "DW5Seg_pd44",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_pd44",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI7": {
+            "upper": {
+                "segmentId": "DW5Seg_klud",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_klud",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI8": {
+            "upper": {
+                "segmentId": "DW5Seg_banh",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_banh",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI9": {
+            "upper": {
+                "segmentId": "DW5Seg_2hl6",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_2hl6",
+                "distance": 0,
+                "end": "Start"
+            }
+        },
+        "DW5RCMI10": {
+            "upper": {
+                "segmentId": "DW5Seg_rcvd",
+                "distance": 0,
+                "end": "End"
+            },
+            "lower": {
+                "segmentId": "DW5Seg_rcvd",
+                "distance": 0,
+                "end": "Start"
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "areas": {
+        "alarka-jct": {
+            "industries": {
+                "robinson-mine": {
+                    "components": {
+                        "formula": {
+                            "inputTermsPerDay": {
+                                "mining-supplies": 20000.0
+                            },
+                            "outputTermsPerDay": {
+                                "coal": 8000000
+                            }
+                        },
+                        "tele": {
+                            "name": "Robinson Gap Coal R1/R2/R3/R4/R5",
+                            "trackSpans": [
+                {
+                  "$add": "DW5RCMI3"
+                },
+                {
+                  "$add": "DW5RCMI4"
+                },
+                {
+                  "$add": "DW5RCMI5"
+                },
+                {
+                  "$add": "DW5RCMI6"
+                },
+                {
+                  "$add": "DW5RCMI7"
+                },
+                {
+                  "$add": "DW5RCMI8"
+                },
+                {
+                  "$add": "DW5RCMI9"
+                },
+                {
+                  "$add": "DW5RCMI10"
+                }
+                ],
+                            "maxStorage": 5000000,
+                            "inputSpans": [
+                {
+                  "$add": "DW5RCMI3"
+                },
+                {
+                  "$add": "DW5RCMI4"
+                },
+                {
+                  "$add": "DW5RCMI5"
+                },
+                {
+                  "$add": "DW5RCMI6"
+                },
+                {
+                  "$add": "DW5RCMI7"
+                },
+                {
+                  "$add": "DW5RCMI8"
+                }
+                            ],
+                            "carTypeFilter": "HM,HT"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

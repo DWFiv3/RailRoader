@@ -1,0 +1,182 @@
+{
+  "nodes": {
+    "DW5_Hewitt_N_d5qr": {
+      "position": {
+        "x": -13681.0977,
+        "y": 576.1724,
+        "z": -8110.763
+      },
+      "rotation": {
+        "x": 359.63,
+        "y": 230.723984,
+        "z": 9.33834343E-08
+      },
+      "flipSwitchStand": false
+    },
+    "DW5_Hewitt_N_tu33": {
+      "position": {
+        "x": -13944.3145,
+        "y": 578.3681,
+        "z": -8326.005
+      },
+      "rotation": {
+        "x": 359.63,
+        "y": 230.723984,
+        "z": 6.670246E-08
+      },
+      "flipSwitchStand": false
+    },
+    "DW5_Hewitt_N_9vpd": {
+      "position": {
+        "x": -14047.4658,
+        "y": 578.1687,
+        "z": -8409.232
+      },
+      "rotation": {
+        "x": 0.01602917,
+        "y": 231.240829,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "Nwufjd": {
+      "position": {
+        "x": -14015.123,
+        "y": 578.156433,
+        "z": -8376.852
+      },
+      "rotation": {
+        "x": 359.616,
+        "y": 231.240845,
+        "z": -6.6701884E-09
+      },
+      "flipSwitchStand": false
+    },
+    "Nwpdtd": {
+      "position": {
+        "x": -13804.2246,
+        "y": 577.151062,
+        "z": -8205.857
+      },
+      "rotation": {
+        "x": 359.716,
+        "y": 230.920853,
+        "z": 6.6701884E-09
+      },
+      "flipSwitchStand": false
+    },
+    "Nw0p11": {
+      "position": {
+        "x": -13716.915,
+        "y": 576.4502,
+        "z": -8134.88525
+      },
+      "rotation": {
+        "x": 359.63,
+        "y": 230.723984,
+        "z": 6.670246E-08
+      },
+      "flipSwitchStand": false
+    },
+    "Nzst": {
+      "position": {
+        "x": -13638.69,
+        "y": 575.83,
+        "z": -8077.73
+      },
+      "rotation": {
+        "x": 359.63,
+        "y": 222.444,
+        "z": 1.33404905E-08
+      },
+      "flipSwitchStand": true
+    },
+    "DW5_Hewitt_Storage_Nd5qr": {
+      "position": {
+        "x": -13681.0977,
+        "y": 576.1724,
+        "z": -8110.763
+      },
+      "rotation": {
+        "x": 359.63,
+        "y": 230.723984,
+        "z": 8.004295E-08
+      },
+      "flipSwitchStand": true
+    }
+  },
+  "segments": {
+    "DW5_Hewitt_S_gr09": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nzst",
+      "endId": "DW5_Hewitt_N_d5qr",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "DW5_Hewitt_S_im52": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "DW5_Hewitt_N_d5qr",
+      "endId": "DW5_Hewitt_N_tu33",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "DW5_Hewitt_S_gerb": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nxre",
+      "endId": "DW5_Hewitt_N_9vpd",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "DW5_Hewitt_S_is4u": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "DW5_Hewitt_N_9vpd",
+      "endId": "DW5_Hewitt_N_tu33",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "Swzaaw": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "DW5_Hewitt_N_9vpd",
+      "endId": "Nwufjd",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "Sw9djw": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nwufjd",
+      "endId": "Nwpdtd",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "Sw29z9": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "DW5_Hewitt_N_d5qr",
+      "endId": "Nw0p11",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "Swp51b": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nw0p11",
+      "endId": "Nwpdtd",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    }
+  }
+}

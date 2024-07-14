@@ -1,0 +1,19 @@
+{
+  "manifestVersion": 5,
+  "id": "DW5.HewittStroage",
+  "name": "DWFiv3's Hewitt Storage Tracks",
+  "version": "1.0",
+  "requires": [
+    {
+      "id": "railloader",
+      "notBefore": "1.8.0"
+    },
+    {
+      "id": "Zamu.StrangeCustoms",
+      "notBefore": "1.6.24125.1439"
+    }
+  ],
+  "mixintos": {
+    "game-graph": "file(DW5HewittStorage.json)"
+  }
+}

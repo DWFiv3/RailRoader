@@ -3,3 +3,4 @@
 - Dual Tracks
 - Sylva Passanger loop
 - Hewitt aditional storage / shunting tracks
+- Coal Mine

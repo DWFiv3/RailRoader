@@ -1,0 +1,444 @@
+{
+  "nodes": {
+    "DW5_SylvaLoop415f": {
+      "position": {
+        "x": 25594.9512,
+        "y": 624.858643,
+        "z": -1009.72314
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 184.577957,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "DW5_SylvaLoop1bwj": {
+      "position": {
+        "x": 25585.77,
+        "y": 624.858643,
+        "z": -1047.647
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 199.577957,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "DW5_SylvaLoopTunnelwwp0": {
+      "position": {
+        "x": 25527.34,
+        "y": 624.858643,
+        "z": -1122.39136
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 239.577957,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "DW5_SylvaLoopTunnel8qqp": {
+      "position": {
+        "x": 25413.5859,
+        "y": 624.858643,
+        "z": -1145.90869
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 279.577942,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "DW5_SylvaLoopTunnelrgj6": {
+      "position": {
+        "x": 25143.91,
+        "y": 624.858643,
+        "z": -1026.49
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 299.577942,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "Ntbb": {
+      "position": {
+        "x": 24939.9355,
+        "y": 622.9119,
+        "z": -926.414856
+      },
+      "rotation": {
+        "x": 359.442444,
+        "y": 84.61563,
+        "z": 359.9782
+      },
+      "flipSwitchStand": true
+    },
+    "NSylvaLoop_jlkm": {
+      "position": {
+        "x": 25456.7285,
+        "y": 624.858643,
+        "z": -877.014465
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 292.57785,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "Nvoz": {
+      "position": {
+        "x": 25099.3164,
+        "y": 624.6193,
+        "z": -864.2371
+      },
+      "rotation": {
+        "x": 359.442444,
+        "y": 40.9009972,
+        "z": -6.670423E-08
+      },
+      "flipSwitchStand": true
+    },
+    "Nsylvialoop8j9n": {
+      "position": {
+        "x": 25173.0,
+        "y": 625.707947,
+        "z": -821.2969
+      },
+      "rotation": {
+        "x": 359.442444,
+        "y": 69.5011139,
+        "z": -4.002254E-07
+      },
+      "flipSwitchStand": false
+    },
+    "Nyi1": {
+      "position": {
+        "x": 25159.4,
+        "y": 625.6,
+        "z": -783.3999
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 35.9008255,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    },
+    "Nsylvialooprd8k": {
+      "position": {
+        "x": 25255.1973,
+        "y": 624.8579,
+        "z": -808.6098
+      },
+      "rotation": {
+        "x": 359.442444,
+        "y": 93.70104,
+        "z": -1.60090138E-07
+      },
+      "flipSwitchStand": false
+    },
+        "NSylvaLoop_w264": {
+      "position": {
+        "x": 25085.8184,
+        "y": 624.7994,
+        "z": -993.16394
+      },
+      "rotation": {
+        "x": 359.5,
+        "y": 300.2778,
+        "z": -1.06725764E-07
+      },
+      "flipSwitchStand": false
+    },
+    "Ns9z67": {
+      "position": {
+        "x": 25029.0117,
+        "y": 623.8587,
+        "z": -959.902954
+      },
+      "rotation": {
+        "x": 0.50001,
+        "y": 297.077942,
+        "z": -1.33405379E-07
+      },
+      "flipSwitchStand": false
+    },
+    "NSylvLoop_e03": {
+      "position": {
+        "x": 24930.9961,
+        "y": 622.81665,
+        "z": -933.4814
+      },
+      "rotation": {
+        "x": 359.439941,
+        "y": 84.62186,
+        "z": -2.66817022E-08
+      },
+      "flipSwitchStand": false
+    },
+    "NSylvLoop_9wzl": {
+      "position": {
+        "x": 25133.46,
+        "y": 624.858643,
+        "z": -1020.5611
+      },
+      "rotation": {
+        "x": 0.15,
+        "y": 299.577942,
+        "z": 0.0
+      },
+      "flipSwitchStand": true
+    },
+    "NSylvLoop_ejir": {
+      "position": {
+        "x": 24880.7285,
+        "y": 622.322754,
+        "z": -937.82
+      },
+      "rotation": {
+        "x": 359.439941,
+        "y": 84.62186,
+        "z": -2.66817022E-08
+      },
+      "flipSwitchStand": false
+    },
+    "NSylvLoop_pia5": {
+      "position": {
+        "x": 24820.9512,
+        "y": 621.596069,
+        "z": -943.3399
+      },
+      "rotation": {
+        "x": 359.449951,
+        "y": 84.62186,
+        "z": -2.66816542E-08
+      },
+      "flipSwitchStand": false
+    },
+    "NSylvLoop_9wqy": {
+      "position": {
+        "x": 24724.7676,
+        "y": 620.6045,
+        "z": -947.882
+      },
+      "rotation": {
+        "x": 1.00179122E-05,
+        "y": 94.22185,
+        "z": -5.33612621E-08
+      },
+      "flipSwitchStand": false
+    },
+    "NSylvLoop_1mvf": {
+      "position": {
+        "x": 24722.2754,
+        "y": 620.599,
+        "z": -947.704346
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 94.22184,
+        "z": 0.0
+      },
+      "flipSwitchStand": false
+    }
+  },
+  "segments": {
+    "SDW_SylvaLoophiqy": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nadh",
+      "endId": "DW5_SylvaLoop415f",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SDW_SylvaLoop7yzf": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "DW5_SylvaLoop415f",
+      "endId": "DW5_SylvaLoop1bwj",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SDW_SylvaLoopTunnelwjow": {
+      "style": "Tunnel",
+      "trackClass": "Mainline",
+      "startId": "DW5_SylvaLoop1bwj",
+      "endId": "DW5_SylvaLoopTunnelwwp0",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SDW_SylvaLoopTunnelzzf4": {
+      "style": "Tunnel",
+      "trackClass": "Mainline",
+      "startId": "DW5_SylvaLoopTunnelwwp0",
+      "endId": "DW5_SylvaLoopTunnel8qqp",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SDW_SylvaLoopTunnel0jom": {
+      "style": "Tunnel",
+      "trackClass": "Mainline",
+      "startId": "DW5_SylvaLoopTunnel8qqp",
+      "endId": "DW5_SylvaLoopTunnelrgj6",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SDW_SylvaLoop0t2q": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "NSylvLoop_9wzl",
+      "endId": "Ntbb",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SDW_SylvaLoopjoinfu3v": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "",
+      "endId": "",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SSylvaLoop_32vh": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nadh",
+      "endId": "NSylvaLoop_jlkm",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "Ssylvialoopm51b": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nvoz",
+      "endId": "Nsylvialoop8j9n",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "Ssylvialoopf5d3": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nsylvialoop8j9n",
+      "endId": "Nsylvialooprd8k",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "Ssylvialoop09li": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Nsylvialooprd8k",
+      "endId": "NSylvaLoop_jlkm",
+      "priority": 0,
+      "speedLimit": 25,
+      "groupId": ""
+    },
+    "SSylvaLoop_n9uv": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "NSylvLoop_9wzl",
+      "endId": "NSylvaLoop_w264",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "Sslm90": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "NSylvaLoop_w264",
+      "endId": "Ns9z67",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "Ssaar7": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "Ns9z67",
+      "endId": "NSylvLoop_e03",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "SSylvLoop_zgbk": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "DW5_SylvaLoopTunnelrgj6",
+      "endId": "NSylvLoop_9wzl",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "SSylvLoop_8gyh": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "NSylvLoop_e03",
+      "endId": "NSylvLoop_ejir",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "SSylvLoop_tnym": {
+      "style": "Bridge",
+      "trackClass": "Mainline",
+      "startId": "NSylvLoop_ejir",
+      "endId": "NSylvLoop_pia5",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "SSylvLoop_xutj": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "NSylvLoop_pia5",
+      "endId": "NSylvLoop_9wqy",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+    "SSylvLoop_ik27": {
+      "style": "Standard",
+      "trackClass": "Mainline",
+      "startId": "No9a",
+      "endId": "NSylvLoop_9wqy",
+      "priority": 0,
+      "speedLimit": 0,
+      "groupId": ""
+    },
+ },
+    "splineys": {
+        "Birdtown Branch Bridge 1": {
+            "meshBuilder": "StrangeCustoms.AutoTrestle",
+            "points": [
+                {
+                    "position": {"x":24820.95,"y":621.25,"z":-943.34},
+                    "rotation": {"x":359.45,"y":84.62,"z":0}
+                },
+                {
+                    "position": {"x":24880.73,"y":621.95,"z":-937.82},
+                    "rotation": {"x":359.44,"y":84.62,"z":0}
+                }
+            ],
+            "headStyle": "block",
+            "tailStyle": "bent"
+        }
+    }
+  }
+
+
+

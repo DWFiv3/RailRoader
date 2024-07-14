@@ -1,0 +1,16 @@
+{
+  "manifestVersion": 5,
+  "id": "DW5.SylvaLoop",
+  "name": "DWFiv3s Sylva Passanger Loop",
+  "version": "1.0",
+  "requires": [
+    "Zamu.StrangeCustoms"
+  ],
+  "conflicts": [
+    "PrinceOfPluto.SylvaJctWye",
+    "AlinaNova21.AMM_AlarkaPaxStorage"
+  ],
+  "mixintos": {
+    "game-graph": "file(DW5SylvaLoop.json)"
+  }
+}

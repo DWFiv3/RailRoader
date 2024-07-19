@@ -1,7 +1,11 @@
 {
     "DW5.CoalMine": {
-        "version": "1.0",
+        "version": "1.0.2",
         "changelog": [
+            {
+                "version": "1.0.2",
+                "desc": "- Added S2 for additional Mining Supplies"
+            },       
             {
                 "version": "1.0",
                 "desc": "- Initial Public Release"

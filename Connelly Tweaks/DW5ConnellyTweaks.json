@@ -1,0 +1,54 @@
+{
+    "areas": {
+        "connelly": {
+            "industries": {
+                "connelly0": {
+                    "components": {
+                        "l1": {
+                            "carTypeFilter": "FL",
+                            "loadId": "logs",
+                            "storageChangeRate": 72,
+                            "maxStorage": 48,
+                            "carTransferRate": 144
+                        },
+                        "p1": {
+                            "carTypeFilter": "FB",
+                            "loadId": "pulpwood",
+                            "storageChangeRate": 1000000,
+                            "maxStorage": 1000000,
+                            "carTransferRate": 1000000
+                        },
+                        "l2": {
+                            "carTypeFilter": "FL",
+                            "loadId": "logs",
+                            "storageChangeRate": 108,
+                            "maxStorage": 126,
+                            "carTransferRate": 216
+                        },
+                        "p2": {
+                            "carTypeFilter": "FB",
+                            "loadId": "pulpwood",
+                            "storageChangeRate": 1000000,
+                            "maxStorage": 1000000,
+                            "carTransferRate": 600000
+                        },
+                        "l3": {
+                            "carTypeFilter": "FL",
+                            "loadId": "logs",
+                            "storageChangeRate": 72,
+                            "maxStorage": 72,
+                            "carTransferRate": 144
+                        },
+                        "p34": {
+                            "carTypeFilter": "FB",
+                            "loadId": "pulpwood",
+                            "storageChangeRate": 2000000,
+                            "maxStorage": 2000000,
+                            "carTransferRate": 300000
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

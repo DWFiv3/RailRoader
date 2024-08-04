@@ -2,6 +2,11 @@
 	"Releases": [
 		{
 			"Id": "DW5DualTracksMod",
+			"Version": "202408.04.1237",
+			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/releases/download/v202408.04.1237/DWFiv3DualTracks.zip"
+		},
+		{
+			"Id": "DW5DualTracksMod",
 			"Version": "1.1.1",
 			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/releases/download/v1.0.0/DWFiv3CoalMine.zip"
 		},

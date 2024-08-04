@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "20240709.01",
+        "version": "202408.04.1237",
         "changelog": [
+            {
+                "version": "202408.04.1237",
+                "desc": "- Massive update"
+            },     
             {
                 "version": "20240709.01",
                 "desc": "- Fixed an issue with Chomers Bryson Interchange track not connecting"

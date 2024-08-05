@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.04.1237",
+        "version": "202408.05.1922",
         "changelog": [
+            {
+                "version": "202408.05.1922",
+                "desc": "- Fixed an issue with Stations not working"
+            },    
             {
                 "version": "202408.04.1237",
                 "desc": "- Massive update"

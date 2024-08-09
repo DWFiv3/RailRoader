@@ -2,6 +2,11 @@
 	"Releases": [
 		{
 			"Id": "DW5DualTracksMod",
+			"Version": "202408.10.1505",
+			"DownloadUrl": "https://github.com/DWFiv3/DWFiv3DualTracks/releases/download/v202408.10.1505/DWFiv3DualTracks.-.UMM.202408.10.1505.zip"
+		},
+		{
+			"Id": "DW5DualTracksMod",
 			"Version": "202408.05.1922",
 			"DownloadUrl": "https://github.com/DWFiv3/RailRoader/raw/main/DualTracks/Releases/DWFiv3DualTracks-UMM.202408.05.1922.zip"
 		},

@@ -1,7 +1,11 @@
 {
     "DW5.DualTracksMod": {
-        "version": "202408.05.1922",
+        "version": "202408.10.1505",
         "changelog": [
+            {
+                "version": "202408.10.1505",
+                "desc": "- Fixed Whittier and Nantahala stations not working"
+            },    
             {
                 "version": "202408.05.1922",
                 "desc": "- Fixed an issue with Stations not working"

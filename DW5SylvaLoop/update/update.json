@@ -1,7 +1,11 @@
 {
     "DW5.SylvaLoop": {
-        "version": "1.1",
+        "version": "1.2.4",
         "changelog": [
+            {
+                "version": "1.2.4",
+                "desc": "- Fixed for Experimental, rebranded as DWFiv3, Moved to own repo "
+            },  
             {
                 "version": "1.1",
                 "desc": "- Fixed a conflict with Birdtown and an overlapping ID"
